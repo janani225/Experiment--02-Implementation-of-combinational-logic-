@@ -64,16 +64,18 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
 ### TRUTH TABLE:
-![image](https://github.com/janani225/Experiment--02-Implementation-of-combinational-logic-/assets/113497333/01737bb4-adfb-4f7a-aade-6e6693a67a3e)
+![image](https://github.com/janani225/Experiment--02-Implementation-of-combinational-logic-/assets/113497333/741fb5fc-a69c-439a-aaff-dd488cc09517)
+
 
 
 ## RTL realization
-![image](https://github.com/janani225/Experiment--02-Implementation-of-combinational-logic-/assets/113497333/944b154d-6197-46df-8beb-826ee80dba8a)
 
+![image](https://github.com/janani225/Experiment--02-Implementation-of-combinational-logic-/assets/113497333/9bf2541c-297e-48c7-ba6f-e02d5f880638)
 
 
 ## Output:
-![image](https://github.com/janani225/Experiment--02-Implementation-of-combinational-logic-/assets/113497333/be14b9e8-adec-4954-a7b7-872a8831362e)
+
+![image](https://github.com/janani225/Experiment--02-Implementation-of-combinational-logic-/assets/113497333/d97f0eb5-db7a-468b-9f0c-c82bce3a3c09)
 
 
 ## Result:
